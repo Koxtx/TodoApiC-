@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\coren\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coren\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,7 +1,6 @@
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\appsettings.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\TodoApi.staticwebassets.endpoints.json
-C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\TodoApi.exe
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\TodoApi.deps.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\TodoApi.runtimeconfig.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\bin\Debug\net10.0\TodoApi.dll
@@ -16,6 +15,7 @@ C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\TodoApi.Assem
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\TodoApi.csproj.CoreCompileInputs.cache
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\TodoApi.sourcelink.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\coren\Documents\dotnet\TodoList\TodoApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
