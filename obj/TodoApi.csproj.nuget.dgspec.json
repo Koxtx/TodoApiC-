@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\coren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coren\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,16 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.12, )"
             }
           },
           "imports": [
