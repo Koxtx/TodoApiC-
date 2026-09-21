@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7HQLU1SgeA=",
+  "dgSpecHash": "T50o1mswHhY=",
   "success": true,
-  "projectFilePath": "c:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\coren\\Documents\\dotnet\\TodoList\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coren\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\coren\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
